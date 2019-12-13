@@ -1,0 +1,142 @@
+Duke Nukem 3D v1.999
+Copyright (c) 1996 3D Realms Entertainment
+Compiling: GAME.CON (99639 bytes)
+Including: DEFS.CON (28893 bytes)
+Including: USER.CON (36930 bytes)
+Looks like Standard CON files.
+  * WARNING!(L157 GAME.CON) Expected a 'action' label but found a 'define' label instead.
+Code Size: 48520 bytes (1425 labels).
+Initialising Windows DirectX/GDI system interface
+Loading OPENGL32.DLL
+Initialising DirectDraw...
+  - Loading DDRAW.DLL
+  - Enumerating display devices
+    * Primary Display Driver
+  - Creating DirectDraw object
+Detecting video modes:
+  - 320x200 32-bit fullscreen
+  - 320x240 32-bit fullscreen
+  - 400x300 32-bit fullscreen
+  - 512x384 32-bit fullscreen
+  - 640x400 32-bit fullscreen
+  - 640x480 32-bit fullscreen
+  - 800x600 32-bit fullscreen
+  - 1024x768 32-bit fullscreen
+  - 1280x600 32-bit fullscreen
+  - 1280x720 32-bit fullscreen
+  - 1280x768 32-bit fullscreen
+  - 1360x768 32-bit fullscreen
+  - 1366x768 32-bit fullscreen
+  - 800x600 8-bit windowed
+  - 640x480 8-bit windowed
+  - 640x400 8-bit windowed
+  - 512x384 8-bit windowed
+  - 480x360 8-bit windowed
+  - 400x300 8-bit windowed
+  - 320x240 8-bit windowed
+  - 320x200 8-bit windowed
+  - 800x600 32-bit windowed
+  - 640x480 32-bit windowed
+  - 640x400 32-bit windowed
+  - 512x384 32-bit windowed
+  - 480x360 32-bit windowed
+  - 400x300 32-bit windowed
+  - 320x240 32-bit windowed
+  - 320x200 32-bit windowed
+Initialising DirectInput...
+  - Loading DINPUT.DLL
+  - Creating DirectInput object
+  - Enumerating attached input devices
+    * MOUSE: Mouse
+    * KEYBOARD: Keyboard
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: USB Receiver
+    * OTHER: HIDI2C Device
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: USB Receiver
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: USB Receiver
+    * OTHER: USB Receiver
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: Converted Portable Device Control device
+    * OTHER: USB Receiver
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: USB Receiver
+    * OTHER: Intel(R) HID Event Filter
+    * OTHER: Converted Portable Device Control device
+    * OTHER: Intel(R) HID Event Filter
+  - Creating keyboard device
+  - Creating mouse device
+Initialising mouse
+CONTROL_Startup: Mouse Present
+Initialising timer
+Loading art header.
+initcache(): Initialised with 33554432 bytes
+RTS Manager Started.
+    Adding DUKE.RTS.
+Using .RTS file:DUKE.RTS
+Loading palette/lookups.
+Setting video mode 1280x768 (32-bit fullscreen)
+Checking music inits.
+Checking sound inits.
+Initializing MultiVoc...
+  - Maximum voices: 8
+  - Using 640 byte mixing buffers
+Initializing DirectSound...
+  - Loading DSOUND.DLL
+  - Creating DirectSound object
+  - Creating primary buffer
+  - Setting primary buffer format
+      Channels:    2
+      Sample rate: 22050Hz
+      Sample size: 8 bits
+  - Creating secondary buffer
+GAME SAVED
+GAME SAVED
+JETPACK NOT FOUND YET!
+GAME SAVED
+GAME SAVED
+GAME SAVED
+RED ACCESS CARD REQUIRED
+GAME SAVED
+MIGHTY FOOT ENGAGED
+GAME SAVED
+GAME SAVED
+GAME SAVED
+MIGHTY FOOT ENGAGED
+STEROIDS
+GAME SAVED
+GAME SAVED
+ATOMIC HEALTH!
+GAME SAVED
+GAME SAVED
+AMMO FOR PISTOL!
+GAME SAVED
+GAME SAVED
+GAME SAVED
+Uninitializing MultiVoc...
+DirectSound: Waiting for sound thread to exit
+DirectSound: Sound thread has exited
+Uninitializing DirectSound...
+  - Releasing secondary buffer
+  - Releasing primary buffer
+  - Releasing DirectSound object
+  - Unloading DSOUND.DLL
+Uninitialising DirectDraw...
+  - Releasing DirectDraw object
+  - Unloading DDRAW.DLL
+Uninitialising DirectInput...
+  - Releasing keyboard device
+  - Releasing mouse device
+  - Releasing DirectInput object
+  - Unloading DINPUT.DLL
